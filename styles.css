@@ -1,0 +1,47 @@
+body {
+    background-color: #e6f3ff;
+    padding: 10%;
+}
+
+.tagline {
+    color: blueviolet;
+    font-style: italic;
+}
+
+img {
+    width: 320px;
+    float: right;
+}
+
+.pricetopic {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 160px;
+}
+
+.pricelist {
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+}
+
+footer {
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
